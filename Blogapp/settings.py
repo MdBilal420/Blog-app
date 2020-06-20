@@ -26,7 +26,7 @@ SECRET_KEY = 'zdn49%ml%r=kztc5t=q4c(837k1_g6pza!_0ksu1c+)(^_yr!('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bondblog.herokuapp.com']
 
 
 # Application definition
